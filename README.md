@@ -12,6 +12,8 @@ The repository currently contains the following projects:
 
 * [NYC Taxi Trip Duration Prediction](https://github.com/mihirpingili/Projects/blob/main/Project_NYC_Taxi_trip_duration_Notebook.ipynb): An analysis of the New York City Taxi trip duration dataset and the use of machine learning models to predict the duration of taxi trips based on various features.
 
+* [Cryotherapy as a Treatment Method](https://github.com/mihirpingili/Projects/blob/main/Cryotherapy%20as%20a%20Treatment%20Method.pdf): An analysis of the effectiveness of Cryotherapy to treat benign surface level growths on the skin. Linear regression and random forests are used to determine which variable predictors demonstrate a statistically significant relationship to the result of the treatment.
+
 ## Usage
 
 Apart from the one project that is a pdf file each is implemented in a Jupyter Notebook. The notebooks include detailed explanations and code comments to guide the reader through the analysis process.
@@ -21,7 +23,3 @@ The datasets used in the projects are included in the repository, along with the
 ## Contributions
 
 Contributions and feedback are always welcome! If you have any suggestions for improvements or would like to contribute a new project, please feel free to submit a pull request or open an issue.
-
-## License
-
-The code in this repository is licensed under the MIT License. See the [LICENSE](https://github.com/mihirpingili/Projects/blob/main/LICENSE) file for details.

@@ -6,11 +6,11 @@ This repository contains a collection of data analysis and machine learning proj
 
 The repository currently contains the following projects:
 
-* [Pima Indians Diabetes Analysis](https://github.com/mihirpingili/Projects/blob/main/Pima_Indians_Diabetes_Analysis_Notebook.ipynb): An analysis of the Pima Indians Diabetes dataset using machine learning techniques to predict diabetes in Pima Indian women.
+* [Pima Indians Diabetes Analysis](https://github.com/mihirpingili/Projects/blob/main/Pima_Indians_Diabetes_Analysis.ipynb): An analysis of the Pima Indians Diabetes dataset using machine learning techniques to predict diabetes in Pima Indian women.
 
-* [Movie Recommendation System](https://github.com/mihirpingili/Projects/blob/main/Project_Movie_Recommendation_Notebook.ipynb): An implementation of a collaborative filtering-based recommendation system to provide personalized movie recommendations to users.
+* [Movie Recommendation System](https://github.com/mihirpingili/Projects/blob/main/Project_Movie_Recommendation.ipynb): An implementation of a collaborative filtering-based recommendation system to provide personalized movie recommendations to users.
 
-* [NYC Taxi Trip Duration Prediction](https://github.com/mihirpingili/Projects/blob/main/Project_NYC_Taxi_trip_duration_Notebook.ipynb): An analysis of the New York City Taxi trip duration dataset and the use of machine learning models to predict the duration of taxi trips based on various features.
+* [NYC Taxi Trip Duration Prediction](https://github.com/mihirpingili/Projects/blob/main/NYC_Taxi_trip_duration.ipynb): An analysis of the New York City Taxi trip duration dataset and the use of machine learning models to predict the duration of taxi trips based on various features.
 
 * [Cryotherapy as a Treatment Method](https://github.com/mihirpingili/Projects/blob/main/Cryotherapy%20as%20a%20Treatment%20Method.pdf): An analysis of the effectiveness of Cryotherapy to treat benign surface level growths on the skin. Linear regression and random forests are used to determine which variable predictors demonstrate a statistically significant relationship to the result of the treatment.
 

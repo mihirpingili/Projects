@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains a collection of data analysis and machine learning projects that I have worked on. Each project is implemented in a Jupyter Notebook and includes a detailed analysis of the dataset, data preprocessing, feature engineering, and model training and evaluation.
+This repository contains a collection of data analysis and machine learning projects that I have worked on. Projects are implemented in a Jupyter Notebook and includes a detailed analysis of the dataset, data preprocessing, feature engineering, and model training and evaluation.
 
 ## Contents
 
@@ -20,6 +20,3 @@ Apart from the one project that is a pdf file each is implemented in a Jupyter N
 
 The datasets used in the projects are included in the repository, along with the necessary libraries and dependencies required to run the notebooks.
 
-## Contributions
-
-Contributions and feedback are always welcome! If you have any suggestions for improvements or would like to contribute a new project, please feel free to submit a pull request or open an issue.

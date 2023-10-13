@@ -1,4 +1,4 @@
-![image](https://github.com/mihirpingili/Projects/assets/100320452/c66ec950-276a-46eb-a801-8e35cbcfaf1c)# Projects
+### Projects
 
 This repository contains a collection of data analysis and machine learning projects that I have worked on. Projects are implemented in a Jupyter Notebook and includes a detailed analysis of the dataset, data preprocessing, feature engineering, and model training and evaluation.
 
